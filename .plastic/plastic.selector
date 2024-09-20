@@ -1,0 +1,4 @@
+repository "RC_football@nature_skybase@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
